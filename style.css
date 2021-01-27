@@ -9,6 +9,7 @@ html, body {
 
 h1 {
   font-size: 45px;
+  text-align: center;
 }
 li {
 display: inline;
