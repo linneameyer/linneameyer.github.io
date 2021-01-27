@@ -24,6 +24,15 @@ h2 {
   font-size: 2.6rem;
 }
 
+img {
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  width: 150px;
+  dislpay: right;
+  width: 25%;
+}
 
+<img src="paris.jpg" alt="Linnea Headshot">
 
 
