@@ -4,7 +4,6 @@ html, body {
   width: 100%;
   height: 100%;
   padding:10px;
-  background-color: #090E8;
 }
 
 h1 {
@@ -25,14 +24,6 @@ h2 {
   font-size: 2.6rem;
 }
 
-img {
-  border: 1px solid #ddd;
-  border-radius: 4px;
-  padding: 5px;
-  width: 150px;
-  margin:right;
-}
 
-<img src="291E59FC-D1A8-4C65-8C6F-40F87C236E5D.jpg" alt="Linnea">
 
 
