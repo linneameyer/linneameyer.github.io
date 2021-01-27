@@ -25,9 +25,10 @@ h2 {
 }
 
 img {
-  display: center;
-  width: 100px;
-  height: 300px;  
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%; 
 }
 
 <img src="291E59FC-D1A8-4C65-8C6F-40F87C236E5D.jpeg" alt="Linnea Headshot">
