@@ -1,8 +1,9 @@
 html, body {
   font-family: ‘Trebuchet MS’, sans-serif;
-  margin: 2;
+  margin: 0;
   width: 100%;
   height: 100%;
+  padding:10px;
 }
 
 h1 {
@@ -23,7 +24,7 @@ h2 {
 }
 
 background {
-  color: #F5F5F9
+  color: #0909E8
 }
 
 
