@@ -31,9 +31,10 @@ img {
   width: 150px;
 }
 img {
-    display: right;
-    width: 25%;
-   height: 25%;
+  display: center;
+  width: 200px;
+  height: 400px;  
+ 
 }
 
 <img src="291E59FC-D1A8-4C65-8C6F-40F87C236E5D.jpeg" alt="Linnea Headshot">
