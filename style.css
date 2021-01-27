@@ -1,12 +1,12 @@
 html, body {
   font-family: ‘Trebuchet MS’, sans-serif;
-  margin: 0;
+  margin: 2;
   width: 100%;
   height: 100%;
 }
 
 h1 {
-  font-size: 48px;
+  font-size: 45px;
 }
 li {
 display: inline;
@@ -14,6 +14,7 @@ display: inline;
 p {
   max-width: 65%;
   min-width: 500px;
+  padding: 10px
 }
 
 h2 {
@@ -21,7 +22,8 @@ h2 {
   font-size: 2.6rem;
 }
 
-
- background-image: url("https://content.codecademy.com/projects/make-a-website/lesson-2/bg.jpg");
+background {
+  color: #F5F5F9
+}
 
 
